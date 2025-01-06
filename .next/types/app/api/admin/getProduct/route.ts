@@ -1,4 +1,4 @@
-// File: D:\mihir\e-com-store-next-js\src\app\api\admin\getProduct\route.ts
+// File: D:\mihir\e-commerce-next.js-\src\app\api\admin\getProduct\route.ts
 import * as entry from '../../../../../../src/app/api/admin/getProduct/route.js'
 import type { NextRequest } from 'next/server.js'
 

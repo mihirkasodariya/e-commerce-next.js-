@@ -1,4 +1,4 @@
-// File: D:\mihir\e-com-store-next-js\src\app\(shop)\footer\page.jsx
+// File: D:\mihir\e-commerce-next.js-\src\app\(shop)\footer\page.jsx
 import * as entry from '../../../../../src/app/(shop)/footer/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

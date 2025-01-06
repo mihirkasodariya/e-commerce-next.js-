@@ -45,48 +45,48 @@ __webpack_require__.r(__webpack_exports__);
 
 const CheckmarkIcon = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call CheckmarkIcon() from the server but CheckmarkIcon is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "CheckmarkIcon",
 );const ErrorIcon = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call ErrorIcon() from the server but ErrorIcon is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "ErrorIcon",
 );const LoaderIcon = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call LoaderIcon() from the server but LoaderIcon is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "LoaderIcon",
 );const ToastBar = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call ToastBar() from the server but ToastBar is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "ToastBar",
 );const ToastIcon = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call ToastIcon() from the server but ToastIcon is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "ToastIcon",
 );const Toaster = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call Toaster() from the server but Toaster is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "Toaster",
 );/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
-function() { throw new Error("Attempted to call the default export of \"D:\\\\mihir\\\\e-com-store-next-js\\\\node_modules\\\\react-hot-toast\\\\dist\\\\index.mjs\" from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+function() { throw new Error("Attempted to call the default export of \"D:\\\\mihir\\\\e-commerce-next.js-\\\\node_modules\\\\react-hot-toast\\\\dist\\\\index.mjs\" from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "default",
 ));
 const resolveValue = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call resolveValue() from the server but resolveValue is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "resolveValue",
 );const toast = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call toast() from the server but toast is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "toast",
 );const useToaster = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call useToaster() from the server but useToaster is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "useToaster",
 );const useToasterStore = (0,react_server_dom_webpack_server_edge__WEBPACK_IMPORTED_MODULE_0__.registerClientReference)(
 function() { throw new Error("Attempted to call useToasterStore() from the server but useToasterStore is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component."); },
-"D:\\mihir\\e-com-store-next-js\\node_modules\\react-hot-toast\\dist\\index.mjs",
+"D:\\mihir\\e-commerce-next.js-\\node_modules\\react-hot-toast\\dist\\index.mjs",
 "useToasterStore",
 );
 
