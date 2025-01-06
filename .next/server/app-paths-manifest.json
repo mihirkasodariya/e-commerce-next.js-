@@ -1,6 +1,1 @@
-{
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/api/admin/getProduct/route": "app/api/admin/getProduct/route.js",
-  "/api/admin/[product]/route": "app/api/admin/[product]/route.js",
-  "/(shop)/products/[id]/page": "app/(shop)/products/[id]/page.js"
-}
+{}
